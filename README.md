@@ -1,2 +1,2 @@
 # cpp-student1
-C++ study tasks
+C++ student works go here
